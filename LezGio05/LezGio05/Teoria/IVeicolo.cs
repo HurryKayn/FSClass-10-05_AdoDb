@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LezGio05.Teoria
+{
+    internal interface IVeicolo
+    {
+        public string Marca { get; set; }
+        public void AccendiMotore();
+
+    }
+}

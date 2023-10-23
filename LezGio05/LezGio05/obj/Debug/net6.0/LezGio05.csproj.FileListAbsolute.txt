@@ -1,0 +1,14 @@
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\obj\Debug\net6.0\LezGio05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\obj\Debug\net6.0\LezGio05.AssemblyInfoInputs.cache
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\obj\Debug\net6.0\LezGio05.AssemblyInfo.cs
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\obj\Debug\net6.0\LezGio05.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\bin\Debug\net6.0\LezGio05.exe
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\bin\Debug\net6.0\LezGio05.deps.json
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\bin\Debug\net6.0\LezGio05.runtimeconfig.json
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\bin\Debug\net6.0\LezGio05.dll
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\bin\Debug\net6.0\LezGio05.pdb
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\obj\Debug\net6.0\LezGio05.dll
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\obj\Debug\net6.0\refint\LezGio05.dll
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\obj\Debug\net6.0\LezGio05.pdb
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\obj\Debug\net6.0\LezGio05.genruntimeconfig.cache
+D:\Personal\Programming\vs22\c231005\LezGio05\LezGio05\obj\Debug\net6.0\ref\LezGio05.dll
